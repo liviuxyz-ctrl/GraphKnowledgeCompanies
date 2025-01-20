@@ -1,0 +1,250 @@
+{
+        "Google": {
+            "CEO": ["Sundar Pichai"],
+            "Industry": ["Technology", "Internet", "Artificial Intelligence"],
+            "Products": ["Search Engine", "Cloud Platform", "Pixel Phones", "Chromecast"],
+            "Services": ["Online Advertising", "Gmail", "Google Maps", "YouTube Premium"],
+            "Competitors": ["Microsoft", "Amazon", "Meta", "Apple"],
+            "Subsidiaries": ["YouTube", "DeepMind", "Fitbit"]
+        },
+        "Amazon": {
+            "CEO": ["Andy Jassy"],
+            "Industry": ["E-Commerce", "Cloud Computing", "Retail"],
+            "Products": ["Kindle", "Fire TV", "Amazon Echo"],
+            "Services": ["AWS", "Prime Video", "Amazon Music", "Fulfillment Services"],
+            "Competitors": ["Google", "Microsoft", "eBay", "Alibaba"],
+            "Subsidiaries": ["Whole Foods", "Zappos", "Ring"]
+        },
+        "Apple": {
+            "CEO": ["Tim Cook"],
+            "Industry": ["Technology", "Consumer Electronics"],
+            "Products": ["iPhone", "MacBook", "iPad", "Apple Watch"],
+            "Services": ["iCloud", "Apple Music", "Apple TV+", "App Store"],
+            "Competitors": ["Microsoft", "Samsung", "Google", "Huawei"],
+            "Subsidiaries": ["Beats Electronics", "Shazam"]
+        },
+        "Microsoft": {
+            "CEO": ["Satya Nadella"],
+            "Industry": ["Technology", "Software Development"],
+            "Products": ["Windows OS", "Xbox", "Surface", "Microsoft 365"],
+            "Services": ["Azure Cloud", "LinkedIn Learning", "GitHub Actions"],
+            "Competitors": ["Google", "Apple", "Amazon", "IBM"],
+            "Subsidiaries": ["LinkedIn", "GitHub", "Skype"]
+        },
+        "Meta": {
+            "CEO": ["Mark Zuckerberg"],
+            "Industry": ["Social Media", "Virtual Reality", "Advertising"],
+            "Products": ["Facebook Platform", "Oculus VR", "Portal Devices"],
+            "Services": ["Instagram Ads", "Messenger", "Facebook Gaming", "Workplace"],
+            "Competitors": ["Google", "TikTok", "Snapchat", "Twitter"],
+            "Subsidiaries": ["WhatsApp", "Instagram"]
+        },
+        "Tesla": {
+            "CEO": ["Elon Musk"],
+            "Industry": ["Automotive", "Clean Energy"],
+            "Products": ["Model S", "Model X", "Model 3", "Model Y"],
+            "Services": ["Supercharger Network", "Tesla Insurance", "Tesla Energy"],
+            "Competitors": ["Ford", "Toyota", "Lucid Motors", "Rivian"],
+            "Subsidiaries": ["SolarCity", "Tesla Grohmann Automation"]
+        },
+        "IBM": {
+            "CEO": ["Arvind Krishna"],
+            "Industry": ["Technology", "Consulting"],
+            "Products": ["Mainframes", "IBM Power Systems", "Quantum Computers"],
+            "Services": ["Cloud Computing", "IBM Watson AI", "Blockchain Services"],
+            "Competitors": ["Microsoft", "Oracle", "Accenture", "Amazon"],
+            "Subsidiaries": ["Red Hat", "Turbonomic"]
+        },
+        "Oracle": {
+            "CEO": ["Safra Catz"],
+            "Industry": ["Technology", "Database Software"],
+            "Products": ["Oracle Database", "Java", "MySQL"],
+            "Services": ["Cloud Infrastructure", "Consulting", "Oracle Support"],
+            "Competitors": ["IBM", "Microsoft", "SAP", "Salesforce"],
+            "Subsidiaries": ["NetSuite", "Cerner"]
+        },
+        "Samsung": {
+            "CEO": ["Jong-Hee Han"],
+            "Industry": ["Electronics", "Semiconductors", "Home Appliances"],
+            "Products": ["Galaxy Smartphones", "Smart TVs", "Memory Chips"],
+            "Services": ["Samsung Pay", "Samsung Health", "Bixby"],
+            "Competitors": ["Apple", "Xiaomi", "Huawei", "LG"],
+            "Subsidiaries": ["Harman International", "Samsung SDS", "Samsung Display"]
+        },
+        "Netflix": {
+            "CEO": ["Ted Sarandos"],
+            "Industry": ["Entertainment", "Streaming Media"],
+            "Products": ["Netflix Originals", "Documentaries", "Stand-Up Specials"],
+            "Services": ["Streaming Subscription", "DVD Rental", "Mobile Games"],
+            "Competitors": ["Amazon Prime Video", "Disney+", "HBO Max", "Hulu"],
+            "Subsidiaries": []
+        },
+        "Zoom": {
+            "CEO": ["Eric Yuan"],
+            "Industry": ["Communication Technology", "Video Conferencing"],
+            "Products": ["Zoom Meetings", "Zoom Rooms", "Zoom Phone"],
+            "Services": ["Webinars", "Virtual Events", "Zoom Marketplace"],
+            "Competitors": ["Microsoft Teams", "Google Meet", "Cisco Webex", "BlueJeans"],
+            "Subsidiaries": []
+        },
+        "Intel": {
+            "CEO": ["Pat Gelsinger"],
+            "Industry": ["Semiconductor", "Computer Hardware"],
+            "Products": ["Core Processors", "Xeon", "Intel Arc GPUs"],
+            "Services": ["AI Development", "Manufacturing Services", "IoT Solutions"],
+            "Competitors": ["AMD", "NVIDIA", "Qualcomm"],
+            "Subsidiaries": ["Mobileye", "Altera"]
+        },
+        "NVIDIA": {
+            "CEO": ["Jensen Huang"],
+            "Industry": ["Semiconductor", "AI Computing"],
+            "Products": ["GeForce GPUs", "Tegra SOC", "NVIDIA RTX"],
+            "Services": ["AI Platforms", "Supercomputing", "Cloud Gaming (GeForce NOW)"],
+            "Competitors": ["AMD", "Intel", "Qualcomm"],
+            "Subsidiaries": ["Mellanox", "Arm (Proposed Acquisition – later withdrawn)"]
+        },
+        "Adobe": {
+            "CEO": ["Shantanu Narayen"],
+            "Industry": ["Software", "Creative Tools"],
+            "Products": ["Photoshop", "Illustrator", "Acrobat", "Lightroom"],
+            "Services": ["Creative Cloud", "Document Cloud", "Adobe Stock", "Adobe Fonts"],
+            "Competitors": ["Corel", "Canva", "Affinity", "Microsoft Publisher"],
+            "Subsidiaries": ["Magento", "Marketo", "Behance"]
+        },
+        "SpaceX": {
+            "CEO": ["Elon Musk"],
+            "Industry": ["Aerospace", "Space Exploration"],
+            "Products": ["Falcon 9", "Starship", "Dragon Capsule"],
+            "Services": ["Satellite Launch", "Starlink Internet", "Rideshare Missions"],
+            "Competitors": ["Blue Origin", "ULA", "Rocket Lab"],
+            "Subsidiaries": []
+        },
+        "Uber": {
+            "CEO": ["Dara Khosrowshahi"],
+            "Industry": ["Transportation", "Tech Services"],
+            "Products": ["Uber Rides", "Uber Freight", "Uber Reserve"],
+            "Services": ["Uber Eats", "Uber for Business", "Uber Health"],
+            "Competitors": ["Lyft", "Bolt", "Grab", "DiDi"],
+            "Subsidiaries": ["Careem", "Postmates"]
+        },
+        "Airbnb": {
+            "CEO": ["Brian Chesky"],
+            "Industry": ["Hospitality", "Travel"],
+            "Products": ["Vacation Rentals", "Experiences", "Airbnb Plus"],
+            "Services": ["Host Tools", "Payment Processing", "AirCover (Insurance)"],
+            "Competitors": ["VRBO", "Booking.com", "Expedia", "HomeAway"],
+            "Subsidiaries": []
+        },
+        "Spotify": {
+            "CEO": ["Daniel Ek"],
+            "Industry": ["Music Streaming", "Technology"],
+            "Products": ["Spotify App", "Spotify Kids", "Spotify Live"],
+            "Services": ["Podcast Hosting", "Music Distribution", "Artist Analytics"],
+            "Competitors": ["Apple Music", "Amazon Music", "YouTube Music", "Tidal"],
+            "Subsidiaries": ["Megaphone", "Anchor"]
+        },
+        "Stripe": {
+            "CEO": ["Patrick Collison"],
+            "Industry": ["Fintech", "Online Payments"],
+            "Products": ["Payment Gateway", "Stripe Terminal", "Billing"],
+            "Services": ["Subscription Management", "Fraud Prevention", "Stripe Atlas"],
+            "Competitors": ["PayPal", "Adyen", "Square", "Braintree"],
+            "Subsidiaries": []
+        },
+        "Lyft": {
+            "CEO": ["David Risher"],
+            "Industry": ["Transportation", "Mobility"],
+            "Products": ["Lyft Rides", "Lyft Bikes", "Lyft Scooters"],
+            "Services": ["Lyft Business", "Scooter Rentals", "Car Rentals"],
+            "Competitors": ["Uber", "Via", "Bolt", "Gett"],
+            "Subsidiaries": []
+        },
+        "TikTok": {
+            "CEO": ["Shou Zi Chew"],
+            "Industry": ["Social Media", "Entertainment"],
+            "Products": ["Video Creation Tools", "TikTok LIVE", "TikTok Shop"],
+            "Services": ["Content Monetization", "Advertising", "Creator Marketplace"],
+            "Competitors": ["Meta", "Snapchat", "YouTube", "Kuaishou"],
+            "Subsidiaries": []
+        },
+        "PayPal": {
+            "CEO": ["Dan Schulman"],
+            "Industry": ["Fintech", "Online Payments"],
+            "Products": ["PayPal Wallet", "PayPal Credit", "Pay in 4"],
+            "Services": ["Peer-to-Peer Payments", "Payment Processing", "Braintree"],
+            "Competitors": ["Stripe", "Square", "Skrill", "Authorize.Net"],
+            "Subsidiaries": ["Venmo", "Honey"]
+        },
+        "Snapchat": {
+            "CEO": ["Evan Spiegel"],
+            "Industry": ["Social Media", "Camera Technology"],
+            "Products": ["Snap Camera", "Spectacles", "Snap Minis"],
+            "Services": ["Advertising", "Snapchat Discover", "Spotlight"],
+            "Competitors": ["TikTok", "Meta", "Pinterest", "YouTube Shorts"],
+            "Subsidiaries": []
+        },
+        "Pinterest": {
+            "CEO": ["Bill Ready"],
+            "Industry": ["Social Media", "Discovery Platform"],
+            "Products": ["Idea Pins", "Pinterest Boards", "Pinterest Lens"],
+            "Services": ["Advertising", "Shopping Features", "Creator Rewards"],
+            "Competitors": ["Instagram", "TikTok", "Snapchat", "Etsy (marketplace)"],
+            "Subsidiaries": []
+        },
+        "Dell": {
+            "CEO": ["Michael Dell"],
+            "Industry": ["Technology", "Computer Hardware"],
+            "Products": ["XPS Laptops", "PowerEdge Servers", "Monitors", "Alienware PCs"],
+            "Services": ["IT Solutions", "Dell Financial Services", "SupportAssist"],
+            "Competitors": ["HP", "Lenovo", "Acer", "Asus"],
+            "Subsidiaries": ["Alienware", "VMware (Majority Stake Sold in 2021)"]
+        },
+        "Cisco": {
+            "CEO": ["Chuck Robbins"],
+            "Industry": ["Networking", "Telecommunications"],
+            "Products": ["Routers", "Switches", "Cisco Webex Devices"],
+            "Services": ["Cybersecurity", "Collaboration Tools", "Managed Services"],
+            "Competitors": ["Juniper Networks", "Huawei", "Aruba (HPE)", "Avaya"],
+            "Subsidiaries": ["AppDynamics", "Meraki", "OpenDNS"]
+        },
+        "Shopify": {
+            "CEO": ["Tobi Lütke"],
+            "Industry": ["E-Commerce", "SaaS"],
+            "Products": ["Online Store Builder", "Shopify POS", "Shopify App Store"],
+            "Services": ["Subscription Management", "Payments", "Fulfillment Network"],
+            "Competitors": ["WooCommerce", "BigCommerce", "Wix", "Squarespace"],
+            "Subsidiaries": ["Oberlo (Discontinued)", "Handshake"]
+        },
+        "Cloudflare": {
+            "CEO": ["Matthew Prince"],
+            "Industry": ["Cloud Services", "Cybersecurity"],
+            "Products": ["CDN", "DNS Resolver", "Load Balancer"],
+            "Services": ["DDoS Protection", "Zero Trust Security", "Serverless Platform"],
+            "Competitors": ["Akamai", "Fastly", "Amazon CloudFront", "Imperva"],
+            "Subsidiaries": []
+        },
+        "Salesforce": {
+            "CEO": ["Marc Benioff"],
+            "Industry": ["Cloud Software", "Enterprise Software"],
+            "Products": ["Sales Cloud", "Marketing Cloud", "Tableau", "Slack"],
+            "Services": ["Customer Support", "Analytics", "CRM Integration"],
+            "Competitors": ["Oracle", "Microsoft", "SAP", "Adobe"],
+            "Subsidiaries": ["Tableau", "Slack", "MuleSoft"]
+        },
+        "Toyota": {
+            "CEO": ["Koji Sato"],
+            "Industry": ["Automotive", "Mobility"],
+            "Products": ["Hybrid Vehicles", "Fuel Cell Cars", "Toyota Supra"],
+            "Services": ["Mobility Solutions", "Toyota Financial Services", "Car Sharing"],
+            "Competitors": ["Ford", "Volkswagen", "Honda", "GM"],
+            "Subsidiaries": ["Daihatsu", "Hino Motors"]
+        },
+        "Ford": {
+            "CEO": ["Jim Farley"],
+            "Industry": ["Automotive"],
+            "Products": ["Electric Vehicles", "Trucks", "Mustang", "Ford GT"],
+            "Services": ["Fleet Management", "Ford Credit", "FordPass"],
+            "Competitors": ["Toyota", "GM", "Tesla", "Honda"],
+            "Subsidiaries": []
+        }
+}
